@@ -1,7 +1,7 @@
 # Royal Bakery Order Management System
 
 ## Project Overview
-The **Royal Bakery Order Management System** is a responsive and intuitive web application designed to manage bakery orders. It features dynamic item categorization, real-time price calculation, printable receipts, and a responsive design that adapts to various devices. The application allows users to browse bakery items, add them to their cart, and generate detailed receipts with an option for printing. It also includes a **Canvas** element to visualize order data and trends.
+The **Royal Bakery Order Management System** is a responsive and intuitive web application designed to manage bakery orders. It features dynamic item categorization, real-time price calculation, printable receipts, and a responsive design that adapts to various devices. The application allows users to browse bakery items, add them to their cart, and generate detailed receipts with an option for printing.
 
 ## Features
 - **Dynamic Item Categorization**: Browse bakery items categorized into Cakes, Pies, Ice Creams, and Snacks.
@@ -19,6 +19,7 @@ The **Royal Bakery Order Management System** is a responsive and intuitive web a
 - **Local Storage**: Temporary storage for order details.
 
 ## Project Structure
+```plaintext
 royal-bakery/
 │
 ├── index.html           # Main HTML file
@@ -30,7 +31,7 @@ royal-bakery/
     ├── Pie/
     ├── IceCream/
     └── Snacks/
-
+```
 
 ## Setup Instructions
 1. **Clone the repository** or **download the files** to your local machine.
@@ -63,7 +64,7 @@ git clone [Bakery_Billing.System](https://github.com/sushantgarde/Bakery_Billing
 - **Mobile Devices**: Fully responsive on smartphones and tablets.
 
 ## License
-This project is licensed under the **MIT License**.
+This project is licensed under the [MIT License](License).
 
 ## Contact
 For any questions, issues, or feedback, feel free to reach out to me at
